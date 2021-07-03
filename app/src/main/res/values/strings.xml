@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConstrantYou</string>
+    <string name="hint1">Email</string>
+    <string name="hint2">Pass word</string>
+    <string name="usephone">USE PHONE NUMBER</string>
+    <string name="ligin">Login</string>
+    <string name="forgotpass">Forgot passwoed ?</string>
+    <string name="or">or</string>
+    <string name="google">CONTINUE WITH GOOGLE</string>
+    <string name="FACEBOOK">CONTINUE WITH FACEBOOK</string>
+</resources>
